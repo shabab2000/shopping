@@ -1,0 +1,26 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "onFocusChange",
+  "compile-hero.disable-compile-files-on-did-save-code": false,
+  "cSpell.words": [
+    "กรุณาป้อนข้อมูล",
+    "ข้อมูลส่วนตัว",
+    "นามสกุล",
+    "ในการจัดส่ง",
+    "บันทึก",
+    "เบอร์โทรศัพท์",
+    "ใบกำกับภาษี",
+    "ยืนยันรหัสผ่าน",
+    "รหัสลูกค้า",
+    "เลขที่บัตรประชาชน",
+    "วันเกิด",
+    "Backcontainer",
+    "Backimage",
+    "containerstatus",
+    "idcard",
+    "Idcard",
+    "inputprofile",
+    "inputprofileemail",
+    "setbirthday"
+  ]
+}
